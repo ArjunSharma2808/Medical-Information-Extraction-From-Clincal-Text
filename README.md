@@ -12,4 +12,5 @@ Another reason clinical text needs different NLP models is that it contains a la
 Lastly, clinical text often contains sensitive patient information and needs to be protected by strict regulations such as HIPAA. NLP models used to process clinical text must be able to identify and protect sensitive patient information while still providing useful insights.
 
 CLINICAL TEXT 
+
 Medical text data can be obtained from various sources, such as electronic health records (EHRs), medical journals, clinical notes, medical websites, and databases. Some of these sources provide publicly available datasets that can be used for training NLP models, while others may require approval and ethical considerations before accessing the data. 
